@@ -1,0 +1,5 @@
+fishbowl-live3
+root
+127.0.0.1
+C:\Users\skeel\Documents\FreelanceWork\MYSQLImage\pythonPractice\largeSize
+C:\Users\skeel\Documents\FreelanceWork\MYSQLImage\pythonPractice\thumbs\
